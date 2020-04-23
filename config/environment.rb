@@ -1,4 +1,4 @@
-require 'bundler'
+Require 'bundler'
 Bundler.require
 
 module Concerns
